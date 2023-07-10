@@ -1,0 +1,7 @@
+The following are the problems I faced while making the website
+
+
+1) Navigation Bar in mobile view is sometimes not working properly
+2) I was not able to make the part which contained "Video"
+3) I was not able to make the "Trusted By" section
+4) Although I did put the Whatsapp Icon, but due to some error which I am not able to resolve, it is not showing in the website
